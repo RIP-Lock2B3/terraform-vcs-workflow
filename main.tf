@@ -9,4 +9,5 @@ module "apache-example" {
   default_vpc_id = var.default_vpc_id
   public_key     = var.public_key
   instance_type  = var.instance_type
+
 }
